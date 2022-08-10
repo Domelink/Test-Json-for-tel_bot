@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JSON_Tel_Bot:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>JSON_Tel_Bot</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="JSON_Tel_Bot-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="JSON_Tel_Bot:war exploded" />
+    </root>
+  </artifact>
+</component>
